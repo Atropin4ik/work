@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "test website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jora",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-less-middleware": "^1.4.4",
+    "jade": "^1.11.0"
+  }
+}
